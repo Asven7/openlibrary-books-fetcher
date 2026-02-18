@@ -12,7 +12,7 @@ API_URL: Final[str] = "https://openlibrary.org/search.json"
 QUERY: Final[str] = "python"
 MAX_BOOKS: Final[int] = 50
 YEAR_LIMIT: Final[int] = 2000
-OUTPUT_FILE: Final[str] = "Day3/books_after_2000_1.csv"
+OUTPUT_FILE: Final[str] = "Type Hint & Simple Web Page/books_after_2000.csv"
 REQUEST_TIMEOUT: Final[int] = 10
 
 
